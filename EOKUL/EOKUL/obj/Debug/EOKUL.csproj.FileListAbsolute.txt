@@ -1,0 +1,80 @@
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\bin\Debug\EOKUL.exe.config
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\bin\Debug\EOKUL.exe
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\bin\Debug\EOKUL.pdb
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\bin\Debug\XanderUI.dll
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.Properties.Resources.resources
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.CopyComplete
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.exe
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.pdb
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgrenciPanel.resources
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.FrmGiris.resources
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgretmenPanel.resources
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.FrmKulupIslemleri.resources
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.FrmDersIslemleri.resources
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.FrmSinavNotlari.resources
+C:\Users\hp\Desktop\C#\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgrenciİslemleri.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\bin\Debug\DataScript.sql
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\bin\Debug\EOKUL.exe.config
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\bin\Debug\EOKUL.exe
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\bin\Debug\EOKUL.pdb
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\bin\Debug\XanderUI.dll
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.FrmSettings.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.FrmDersIslemleri.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.FrmGiris.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.FrmKulupIslemleri.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgretmenPanel.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.FrmSinavNotlari.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgrenciİslemleri.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.Properties.Resources.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgrenciPanel.resources
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.CopyComplete
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.exe
+C:\Users\hp\Desktop\Yeni klasör\EOKUL\EOKUL\obj\Debug\EOKUL.pdb
+C:\Users\hp\Desktop\EOKUL\EOKUL\bin\Debug\DataScript.sql
+C:\Users\hp\Desktop\EOKUL\EOKUL\bin\Debug\EOKUL.exe.config
+C:\Users\hp\Desktop\EOKUL\EOKUL\bin\Debug\EOKUL.exe
+C:\Users\hp\Desktop\EOKUL\EOKUL\bin\Debug\EOKUL.pdb
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.FrmSettings.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.FrmDersIslemleri.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.FrmGiris.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.FrmKulupIslemleri.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgretmenPanel.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.FrmSinavNotlari.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgrenciİslemleri.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.Properties.Resources.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgrenciPanel.resources
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.CopyComplete
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.exe
+C:\Users\hp\Desktop\EOKUL\EOKUL\obj\Debug\EOKUL.pdb
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\bin\Debug\DataScript.sql
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\bin\Debug\EOKUL.exe.config
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\bin\Debug\EOKUL.exe
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\bin\Debug\EOKUL.pdb
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.FrmSettings.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.FrmDersIslemleri.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.FrmGiris.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.FrmKulupIslemleri.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgretmenPanel.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.FrmSinavNotlari.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgrenciİslemleri.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.Properties.Resources.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.FrmOgrenciPanel.resources
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.csproj.CopyComplete
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.exe
+C:\Users\hp\Desktop\staj\EOKUL\EOKUL\obj\Debug\EOKUL.pdb
